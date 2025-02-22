@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>第4天 on 相片集</title>
+    <link>https://muse-101.github.io/jr2025img/categories/%E7%AC%AC4%E5%A4%A9/</link>
+    <description>Recent content in 第4天 on 相片集</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>npm106@npm.gov.tw (Sam Lai)</managingEditor>
+    <webMaster>npm106@npm.gov.tw (Sam Lai)</webMaster>
+    <copyright>故宮小志</copyright><atom:link href="https://muse-101.github.io/jr2025img/categories/%E7%AC%AC4%E5%A4%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0208-1</title>
+      <link>https://muse-101.github.io/jr2025img/0208/0208-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>npm106@npm.gov.tw (Sam Lai)</author>
+      <guid>https://muse-101.github.io/jr2025img/0208/0208-1/</guid><media:content url="https://muse-101.github.io/jr2025img/0208/0208-1/20250208-1-01_hu1199301744705715254.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://muse-101.github.io/jr2025img/0208/0208-1/20250208-1-01_hu1199301744705715254.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>0208-2</title>
+      <link>https://muse-101.github.io/jr2025img/0208/0208-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>npm106@npm.gov.tw (Sam Lai)</author>
+      <guid>https://muse-101.github.io/jr2025img/0208/0208-2/</guid><media:content url="https://muse-101.github.io/jr2025img/0208/0208-2/20250208-2-001_hu13093313964245775505.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://muse-101.github.io/jr2025img/0208/0208-2/20250208-2-001_hu13093313964245775505.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
